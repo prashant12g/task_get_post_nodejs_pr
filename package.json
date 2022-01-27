@@ -1,0 +1,15 @@
+{
+  "name": "tsk",
+  "version": "1.0.0",
+  "description": "get_post_rest_api_using_nodejs_prashant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prashant gotra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^17.6.0"
+  }
+}
